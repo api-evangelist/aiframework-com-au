@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aiframework Com Au Domain Security](https://apis.io/security/aiframework-com-au/aiframework-com-au-domain-security/)
+- [aiframework-com-au Domain Security](https://apis.io/security/aiframework-com-au/aiframework-com-au-domain-security/)
 
 ## Where to find this API
 
@@ -92,7 +92,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aiframework-com-au/](https://apis.io/providers/aiframework-com-au/).
+**Kin Score 8.2** — minimal · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 37.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 27.7 |
+
+**Agent readiness 5.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aiframework-com-au/](https://apis.io/providers/aiframework-com-au/).
 
 ## How this profile is made
 
